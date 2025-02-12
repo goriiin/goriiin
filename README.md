@@ -1,4 +1,3 @@
-[![Codewars Badge](https://www.codewars.com/users/goriiin/badges/large)](https://www.codewars.com/users/goriiin)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=goriiin"/>
